@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602605508037",
+    "project_id": "health4u-10ae1",
+    "storage_bucket": "health4u-10ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602605508037:android:db2a9b685a22faddbde7ac",
+        "android_client_info": {
+          "package_name": "com.example.health4u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsV8WyP3wU5NvM6JS3CrpPpPkQ0j9AVBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
